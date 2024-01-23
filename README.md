@@ -12,6 +12,7 @@
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
+<a href="https://brackets.io/"><img src="https://brackets.io/img/brackets.svg" alt="brackets" width="50" height="50"></a>
 <a href="https://code.visualstudio.com/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VScode" width="50" height="50"></a>
 <a href="https://validator.w3.org/"><img src="https://www.vectorlogo.zone/logos/w3c/w3c-tile.svg" alt="W3C" width="50" height="50"></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
