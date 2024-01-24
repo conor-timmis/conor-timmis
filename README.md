@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Conor Timmis</h1>
 <h3 align="center">A Web Developer from the United Kingdom</h3>
 
-- 🔭 I’m currently taking on a <a href="https://www.codeinstitute.com"> Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)</a>
+- 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)</a>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript & Python**
 
