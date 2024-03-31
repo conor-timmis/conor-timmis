@@ -21,6 +21,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 
 <p align="center"> 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conor-timmis&layout=compact)
+</p>
+
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/conor-timmis/count.svg" />
 </p>
