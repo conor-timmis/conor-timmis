@@ -30,7 +30,6 @@
 
 <br>
 <br>
-<br>
 
 <p align="center"> 
   Visitor count<br>
