@@ -21,11 +21,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 
 <br>
+<br>
+<br>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conor-timmis&layout=compact" alt="stats" />
 </p>
 
+<br>
+<br>
 <br>
 
 <p align="center"> 
