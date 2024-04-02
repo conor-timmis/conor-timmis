@@ -25,7 +25,7 @@
 <br>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conor-timmis&layout=compact" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conor-timmis&layout=compact&theme=radical" alt="stats" />
 </p>
 
 <br>
