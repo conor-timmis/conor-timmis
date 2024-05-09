@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Conor Timmis</h1>
+<h1 align="center">Hey 👋, I'm Conor Timmis</h1>
 <h3 align="center">A Web Developer from the United Kingdom</h3>
 
 - 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)</a>
