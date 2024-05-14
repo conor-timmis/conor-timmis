@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/conor-timmis-79977a296/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="conor timmis" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/conor-timmis/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="conor timmis" height="70" width="70" /></a>
 </p>
 
 <h3 align="left">Languages & Tools</h3>
