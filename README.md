@@ -20,6 +20,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></a>
+<a href="https://jquery.com/" target="_blank"> <img src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico" alt="bootstrap" width="50" height="50"/></a>
+<a href="https://jestjs.io/" target="_blank"> <img src="https://jestjs.io/img/favicon/favicon.ico" alt="bootstrap" width="50" height="50"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="bootstrap" width="50" height="50"/></a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/favicon.ico" alt="bootstrap" width="50" height="50"/></a>
 
 <br>
 <br>
