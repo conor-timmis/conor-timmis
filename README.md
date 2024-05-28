@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)</a>
 
-- 🌱 I’m currently learning about: Flask & Django 
+- 🌱 I’m currently learning about: Django 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
