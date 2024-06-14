@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)</a>
 
-- 🌱 I’m currently working on: **Project 4** - **Full-Stack Toolkit** as part of my course.
+- 🌱 I’m currently working on: [**Project 4** - **Full-Stack Toolkit**](https://github.com/conor-timmis/Michelangelo) as part of my course.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
