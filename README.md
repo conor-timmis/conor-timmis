@@ -21,8 +21,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <br>
 <h3 align="left">Development Toolkit</h3>
-<p align="left>
-<a href="https://brackets.io/"><img src="https://brackets.io/img/brackets.svg" alt="brackets" width="50" height="50"></a>
+<p align="left">
+<a href="https://brackets.io/" target="_blank"><img src="https://brackets.io/img/brackets.svg" alt="brackets" width="50" height="50"></a>
 <a href="https://code.visualstudio.com/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VScode" width="50" height="50"></a>
 <a href="https://git-scm.com"><img src="https://git-scm.com/favicon.ico" alt="git" width="50" height="50"></a>
 <a href="https://validator.w3.org/"><img src="https://www.vectorlogo.zone/logos/w3c/w3c-tile.svg" alt="W3C" width="50" height="50"></a>
