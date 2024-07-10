@@ -24,14 +24,14 @@
 <p align="left>
 <a href="https://brackets.io/"><img src="https://brackets.io/img/brackets.svg" alt="brackets" width="50" height="50"></a>
 <a href="https://code.visualstudio.com/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VScode" width="50" height="50"></a>
-<a href="https://git-scm.com"><img src="https://git-scm.com/favicon.ico" alt="W3C" width="50" height="50"></a>
+<a href="https://git-scm.com"><img src="https://git-scm.com/favicon.ico" alt="git" width="50" height="50"></a>
 <a href="https://validator.w3.org/"><img src="https://www.vectorlogo.zone/logos/w3c/w3c-tile.svg" alt="W3C" width="50" height="50"></a>
-<a href="https://www.heroku.com" target="_blank"> <img src="https://www.herokucdn.com/favicon.ico" alt="python" width="50" height="50"/></a>
+<a href="https://www.heroku.com" target="_blank"> <img src="https://www.herokucdn.com/favicon.ico" alt="heroku" width="50" height="50"/></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></a>
-<a href="https://jquery.com/" target="_blank"> <img src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico" alt="bootstrap" width="50" height="50"/></a>
-<a href="https://jestjs.io/" target="_blank"> <img src="https://jestjs.io/img/favicon/favicon.ico" alt="bootstrap" width="50" height="50"/></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="bootstrap" width="50" height="50"/></a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/favicon.ico" alt="bootstrap" width="50" height="50"/></a>
+<a href="https://jquery.com/" target="_blank"> <img src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico" alt="jquery" width="50" height="50"/></a>
+<a href="https://jestjs.io/" target="_blank"> <img src="https://jestjs.io/img/favicon/favicon.ico" alt="jest" width="50" height="50"/></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" width="50" height="50"/></a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/favicon.ico" alt="postgresql" width="50" height="50"/></a>
 
 
 
