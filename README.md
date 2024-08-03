@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)</a>
 
-- 🌱 I’m currently working on: [**Michelagelo, my Django based project**](https://github.com/conor-timmis/Michelangelo) as Project 4 of my course.
+- 🌱 I’m currently learning about: Advanced Front End with the use of [React](https://react.dev/)
 
 <br>
 
