@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)</a>
 
-- 🌱 I’m currently learning about: Advanced Front End with the use of [React](https://react.dev/)
+- 🌱 I’m currently expanding my knowledge in Advanced Front-End Development utilizing the [React](https://react.dev/) library
 
 <br>
 
