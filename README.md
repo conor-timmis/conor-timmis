@@ -2,9 +2,9 @@
 <h3 align="center">A motivated and enthusiastic programmer from the UK who takes pleasure in coding.</h3>
 <br>
 
-- 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)</a>
+- 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)
 
-- 🌱 I’m currently expanding my knowledge in Advanced Front-End Development utilizing the [React](https://react.dev/) library
+- 🌱 I’m currently putting everything I have learned to the test, working on [Better-You](https://github.com/conor-timmis/Better-You) my Social Media project built with React and Django.
 
 <br>
 
