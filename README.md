@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently taking on a Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net)
 
-- 🌱 I’m currently putting everything I have learned to the test, working on [Better-You](https://github.com/conor-timmis/Better-You) my Social Media project built with React and Django.
+- 🌱 I’m currently putting everything I have learned to the test, working on [Better-You](https://github.com/conor-timmis/Better-You) my Social Media project built with React and Django Rest Framework.
 
 <br>
 
