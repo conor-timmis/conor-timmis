@@ -34,7 +34,7 @@
 <a href="https://jestjs.io/" target="_blank"> <img src="https://jestjs.io/img/favicon/favicon.ico" alt="jest" width="50" height="50"/></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" width="50" height="50"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/favicon.ico" alt="postgresql" width="50" height="50"/></a>
-
+<a href="https://www.npmjs.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-npm-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175132.png" alt="npm" width="50" height="50"/></a>
 <br>
 <br>
 <br>
