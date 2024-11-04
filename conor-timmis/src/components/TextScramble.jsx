@@ -24,8 +24,8 @@ const TextScramble = () => {
         clearInterval(interval);
       }
 
-      iteration += 1 / 3;
-    }, 30);
+      iteration += 1 / 4;
+    }, 40);
 
     return () => clearInterval(interval);
   }, [finalText]);
