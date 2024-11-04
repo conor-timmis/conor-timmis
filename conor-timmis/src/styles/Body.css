@@ -19,14 +19,13 @@ body {
 
 #header {
     color: #535bf2;
-    margin-bottom: -400px;
 }
 
 .user-picture {
     width: 200px;
     height: auto;
     border-radius: 50%;
-    margin-bottom: 10px;
+    margin-top: 10vh;
 }
 
 .name {
@@ -97,8 +96,17 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 50vh;
+    height: 40vh;
     text-align: center;
     padding: 20px;
     width: 100%;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding-top: 60px; /* Adjust for mobile if your navbar is shorter */
+    }
+    #header {
+        font-size: 0.75rem;
+    }
 }
