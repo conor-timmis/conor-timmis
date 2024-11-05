@@ -10,10 +10,10 @@ const NavBar = () => {
         <TextScramble />
       </div>
       <div className="navbar-links">
-        <a href="#header">
+        <a href="#about">
           <BounceButton className="navbar-button">About</BounceButton>
         </a>
-        <a href="#about">
+        <a href="#experience">
           <BounceButton className="navbar-button">Experience</BounceButton>
         </a>
         <a href="#projects">
