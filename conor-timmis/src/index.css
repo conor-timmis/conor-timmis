@@ -66,10 +66,3 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-
-@media (max-width: 580px) {
-  button {
-    padding: 0.4em 0.8em;
-    font-size: 0.9em;
-  }
-}

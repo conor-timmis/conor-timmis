@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    font-family: Poppins, sans-serif;
     padding-top: 80px;
     margin: 0;
     display: flex;
