@@ -44,5 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conor-timmis&layout=compact&theme=radical" alt="stats" />
 </p>
 
-
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=conor-timmis&label=Profile%20views&color=0e75b6&style=flat" alt="conor-timmis" /> </p>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=conor-timmis&label=Profile%20Views&color=6&icon=5&pretty=false" />
+  </a>
+</div>
