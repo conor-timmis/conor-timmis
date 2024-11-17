@@ -2,9 +2,9 @@
 <h3 align="center">A motivated and enthusiastic programmer from the UK who takes pleasure in coding.</h3>
 <br>
 
-- 🔭 I’m currently finishing up my Full Stack Development Course with [Code Institute](https://learn.codeinstitute.net).
+- 💬 Ask me about Coding, Web3, NFTs & Crypto!
 
-- 🌱 I’m currently working on building my Portfolio Page & Looking For Work!
+- 📫 Let's collab! conor.timmis@icloud.com
 
 <br>
 
