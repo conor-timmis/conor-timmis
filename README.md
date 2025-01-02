@@ -21,6 +21,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="50" height="50"/></a>
 <a href="https://react.dev/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="react" width="50" height="50"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.typescriptlang.org//favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" alt="typescript" width="50" height="50"/></a>
 <br>
 <h3 align="left">Development Toolkit</h3>
 <p align="left">
