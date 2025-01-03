@@ -46,7 +46,7 @@
 </p>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=conor-timmis&label=Profile%20Views&color=6&icon=5&pretty=false" />
+  <a href="https://komarev.com/ghpvc/?username=conor-timmis&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=conor-timmis&style=flat-square" alt="Profile views">
   </a>
 </div>
