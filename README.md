@@ -34,8 +34,8 @@
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
   <a href="https://jquery.com/" target="_blank"> <img src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico" alt="jquery" width="50" height="50"/></a>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" width="50" height="50"/></a>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/favicon.ico" alt="postgresql" width="50" height="50"/></a>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/>
 <br>
