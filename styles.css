@@ -126,14 +126,13 @@ button:focus-visible {
   transition: backdrop-filter 0.3s ease;
 }
 
-.navbar-logo {
-  font-size: 1.5rem;
-  color: #dfdfdf;
-}
-
 .navbar-links {
   display: flex;
   gap: 1rem;
+}
+
+.navbar-button {
+  font-size: 1.2rem;
 }
 
 .navbar-button:hover {
@@ -296,6 +295,25 @@ button:focus-visible {
   color: #dfdfdf;
 }
 
+/* Logo Styles */
+.logo-text {
+  font-size: 1.6rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: linear-gradient(135deg, #646cff, #535bf2);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.logo-text:hover {
+  transform: scale(1.05);
+}
+
+
 /* Media Queries */
 @media (max-width: 768px) {
   .navbar-logo {
@@ -364,6 +382,10 @@ button:focus-visible {
   p {
     font-size: 0.85em;
   }
+
+  .logo-text {
+    font-size: 1.4rem;
+  }
 }
 
 @media (max-width: 576px) {
@@ -408,6 +430,10 @@ button:focus-visible {
   p {
     font-size: 0.8em;
   }
+
+  .logo-text {
+    font-size: 1.1rem;
+  }
 }
 
 @media (max-width: 996px) {
@@ -431,6 +457,10 @@ button:focus-visible {
   p {
     margin-top: 10px;
     margin-bottom: 20px;
+  }
+
+  .navbar-button {
+    font-size: 1.0rem;
   }
 }
 
@@ -477,22 +507,3 @@ button:focus-visible {
       0 0 20px rgba(255, 255, 255, 0.7);
   }
 }
-
-/* Logo Styles */
-.logo-text {
-  font-size: 1.8rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  background: linear-gradient(135deg, #646cff, #535bf2);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  display: inline-block;
-  transition: transform 0.2s ease;
-}
-
-.logo-text:hover {
-  transform: scale(1.05);
-}
-
