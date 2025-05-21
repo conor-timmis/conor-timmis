@@ -38,6 +38,10 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🔗 Blockchain & Smart Contracts
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
 ### 🧪 Testing & Tools
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,6 +54,7 @@
 ![Gitpod](https://img.shields.io/badge/gitpod-1AA6E4?style=for-the-badge&logo=gitpod&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-3C3C3C?style=for-the-badge&logo=cursor&logoColor=white)
+
 
 
 ---
