@@ -41,6 +41,7 @@
 ### 🔗 Blockchain & Smart Contracts
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-3A0CA3?style=for-the-badge&logo=solana&logoColor=white)
 
 ### 🧪 Testing & Tools
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
