@@ -48,15 +48,6 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### 🧰 Dev Tools
-![Brackets](https://img.shields.io/badge/brackets-0045AD?style=for-the-badge&logo=brackets&logoColor=white)
-![W3C](https://img.shields.io/badge/w3c-%23000000.svg?style=for-the-badge&logo=w3c&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gitpod](https://img.shields.io/badge/gitpod-1AA6E4?style=for-the-badge&logo=gitpod&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-3C3C3C?style=for-the-badge&logo=cursor&logoColor=white)
-
-
 
 ---
 
