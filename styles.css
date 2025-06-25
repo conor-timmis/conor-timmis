@@ -281,6 +281,9 @@ button:focus-visible {
   padding: 15px;
   background-color: #242424;
   transition: transform 0.2s;
+  height: 480px;
+  display: flex;
+  flex-direction: column;
 }
 
 .project:hover {
@@ -304,10 +307,19 @@ button:focus-visible {
 .project-description {
   font-size: 1em;
   color: #dfdfdf;
+  flex-grow: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  line-height: 1.4;
 }
 
 .project-content {
   padding: 10px 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
 }
 
 .tech-tags {
@@ -359,6 +371,100 @@ button:focus-visible {
   color: white;
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(100, 108, 255, 0.3);
+}
+
+/* Pagination Styles */
+.projects-container {
+  position: relative;
+  min-height: 600px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.projects-wrapper {
+  display: flex;
+  width: 200%;
+  transition: transform 0.5s ease-in-out;
+}
+
+.project-page {
+  width: 50%;
+  flex-shrink: 0;
+}
+
+.projects-wrapper.page-2 {
+  transform: translateX(-50%);
+}
+
+.pagination-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 30px;
+  padding: 20px 0;
+}
+
+.pagination-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  border: 1px solid #646cff;
+  color: #646cff;
+  padding: 10px 20px;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 120px;
+  justify-content: center;
+}
+
+.pagination-btn:hover:not(:disabled) {
+  background: #646cff;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(100, 108, 255, 0.3);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.page-indicators {
+  display: flex;
+  gap: 10px;
+}
+
+.page-indicator {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 1px solid #646cff;
+  color: #646cff;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.page-indicator:hover {
+  background: rgba(100, 108, 255, 0.1);
+  transform: scale(1.1);
+}
+
+.page-indicator.active {
+  background: linear-gradient(135deg, #646cff, #535bf2);
+  color: white;
+  border-color: #535bf2;
+  box-shadow: 0 4px 12px rgba(100, 108, 255, 0.3);
 }
 
 /* Logo Styles */
@@ -418,6 +524,7 @@ button:focus-visible {
     border-radius: 10px;
     padding: 15px;
     background-color: #242424;
+    height: 450px;
   }
 
   .project-image {
@@ -441,6 +548,22 @@ button:focus-visible {
   .project-link {
     font-size: 0.8em;
     padding: 6px 12px;
+  }
+
+  .pagination-controls {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .pagination-btn {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+    min-width: 100px;
+  }
+
+  .page-indicator {
+    width: 35px;
+    height: 35px;
   }
 
   h4 {
