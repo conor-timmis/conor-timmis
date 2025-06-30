@@ -147,22 +147,19 @@
                                     </div>
                                 </div>
                                 <div class="project">
-                                    <img src="assets/cleancaninespreview.png" alt="CleanCanines" class="project-image">
+                                    <img src="https://raw.githubusercontent.com/conor-timmis/codevault/main/documentation/preview.png" alt="CodeVault" class="project-image">
                                     <div class="project-content">
                                         <h3 class="project-title">
-                                            <a href="https://cleancanines.org" target="_blank"
-                                                rel="noopener noreferrer">CleanCanines</a>
+                                            <a href="https://github.com/conor-timmis/codevault" target="_blank"
+                                                rel="noopener noreferrer">CodeVault</a>
                                         </h3>
                                         <div class="tech-tags">
-                                            <span class="tech-tag">HTML</span>
-                                            <span class="tech-tag">CSS</span>
+                                            <span class="tech-tag">PHP</span>
+                                            <span class="tech-tag">MySQL</span>
+                                            <span class="tech-tag">Bootstrap</span>
                                             <span class="tech-tag">JavaScript</span>
-                                            <span class="tech-tag">Responsive</span>
                                         </div>
-                                        <p class="project-description">A modern, responsive website for a local dog
-                                            grooming
-                                            business,
-                                            built with HTML, CSS, and JavaScript to showcase their services.</p>
+                                        <p class="project-description">A modern pastebin application with syntax highlighting, privacy controls, and expiration options. Share code snippets securely with user authentication and responsive design.</p>
                                     </div>
                                 </div>
                                 <div class="project">
@@ -188,6 +185,31 @@
                                     </div>
                                 </div>
                                 <div class="project">
+                                    <img src="assets/cleancaninespreview.png" alt="CleanCanines" class="project-image">
+                                    <div class="project-content">
+                                        <h3 class="project-title">
+                                            <a href="https://cleancanines.org" target="_blank"
+                                                rel="noopener noreferrer">CleanCanines</a>
+                                        </h3>
+                                        <div class="tech-tags">
+                                            <span class="tech-tag">HTML</span>
+                                            <span class="tech-tag">CSS</span>
+                                            <span class="tech-tag">JavaScript</span>
+                                            <span class="tech-tag">Responsive</span>
+                                        </div>
+                                        <p class="project-description">A modern, responsive website for a local dog
+                                            grooming
+                                            business,
+                                            built with HTML, CSS, and JavaScript to showcase their services.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Page 2 -->
+                        <div class="project-page" data-page="2">
+                            <div class="project-grid">
+                                <div class="project">
                                     <img src="https://raw.githubusercontent.com/conor-timmis/Michelangelo/main/documentation/mockup.png"
                                         alt="Michelangelo" class="project-image">
                                     <div class="project-content">
@@ -207,12 +229,6 @@
                                             out of admiration for their very high quality and enjoyable food.</p>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-
-                        <!-- Page 2 -->
-                        <div class="project-page" data-page="2">
-                            <div class="project-grid">
                                 <div class="project">
                                     <img src="https://raw.githubusercontent.com/conor-timmis/PassMint/refs/heads/main/documentation/mockup.png"
                                         alt="PassMint" class="project-image">
@@ -272,6 +288,12 @@
                                             with a slight twist featuring a 16-bit theme.</p>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+
+                        <!-- Page 3 -->
+                        <div class="project-page" data-page="3">
+                            <div class="project-grid">
                                 <div class="project">
                                     <img src="https://raw.githubusercontent.com/conor-timmis/Timmys/main/documentation/responsiveness.png"
                                         alt="Timmys" class="project-image">
@@ -308,6 +330,7 @@
                     <div class="page-indicators">
                         <span class="page-indicator active" data-page="1" onclick="goToPage(1)">1</span>
                         <span class="page-indicator" data-page="2" onclick="goToPage(2)">2</span>
+                        <span class="page-indicator" data-page="3" onclick="goToPage(3)">3</span>
                     </div>
                     <button class="pagination-btn" id="nextBtn" onclick="changePage(1)">
                         Next
@@ -329,7 +352,7 @@
 
     <script>
         let currentPage = 1;
-        const totalPages = 2;
+        const totalPages = 3;
 
         function changePage(direction) {
             const newPage = currentPage + direction;
@@ -348,6 +371,8 @@
                 projectsWrapper.className = 'projects-wrapper';
             } else if (pageNumber === 2) {
                 projectsWrapper.className = 'projects-wrapper page-2';
+            } else if (pageNumber === 3) {
+                projectsWrapper.className = 'projects-wrapper page-3';
             }
 
             // Update page indicators
