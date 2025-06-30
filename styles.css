@@ -315,6 +315,7 @@ button:focus-visible {
   background-color: #242424;
   transition: transform 0.2s;
   height: 460px;
+  min-height: 460px;
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
@@ -589,30 +590,26 @@ button:focus-visible {
   }
 
   .pagination-controls {
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 10px;
-    padding: 15px 10px;
+    display: flex;
     justify-content: center;
+    align-items: center;
+    padding: 25px 10px;
   }
 
   .pagination-btn {
-    font-size: 0.85rem;
-    padding: 8px 12px;
-    min-width: 80px;
-    flex: 0 0 auto;
+    display: none;
   }
 
   .page-indicators {
-    order: 3;
-    flex-basis: 100%;
+    display: flex;
+    gap: 12px;
     justify-content: center;
-    margin-top: 10px;
   }
 
   .page-indicator {
-    width: 35px;
-    height: 35px;
+    width: 38px;
+    height: 38px;
+    font-size: 1rem;
   }
 
   h4 {
@@ -671,8 +668,8 @@ button:focus-visible {
 
   .project {
     padding: 12px;
-    height: auto;
-    min-height: 350px;
+    height: 460px;
+    min-height: 460px;
   }
 
   .project-image {
@@ -682,27 +679,27 @@ button:focus-visible {
   }
 
   .pagination-controls {
-    flex-direction: column;
-    gap: 8px;
-    padding: 10px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 8px;
   }
 
   .pagination-btn {
-    font-size: 0.8rem;
-    padding: 6px 10px;
-    min-width: 70px;
-    order: 1;
+    display: none;
   }
 
   .page-indicators {
-    order: 2;
-    margin-top: 0;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
   }
 
   .page-indicator {
-    width: 30px;
-    height: 30px;
-    font-size: 0.9rem;
+    width: 32px;
+    height: 32px;
+    font-size: 0.85rem;
+    border-radius: 50%;
   }
 
   h4 {
@@ -729,6 +726,19 @@ button:focus-visible {
 
   .logo-text {
     font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .pagination-controls {
+    gap: 10px;
+    padding: 12px 5px;
+  }
+
+  .page-indicator {
+    width: 28px;
+    height: 28px;
+    font-size: 0.8rem;
   }
 }
 
