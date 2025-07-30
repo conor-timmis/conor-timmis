@@ -21,7 +21,6 @@ html {
 
 body {
   margin: 0;
-  min-width: 320px;
   min-height: 100vh;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -32,6 +31,7 @@ body {
   background-color: #242424;
   overflow-x: hidden;
   width: 100%;
+  box-sizing: border-box;
 }
 
 .main-container {
@@ -346,22 +346,23 @@ button:focus-visible {
   display: block;
 }
 
-.project-title {
-  font-size: 1.5em;
-  color: #FFF;
-  margin: 10px 0;
-}
+  .project-title {
+    font-size: 1.5em;
+    color: #FFF;
+    margin: 10px 0;
+    line-height: 1.3;
+  }
 
-.project-description {
-  font-size: 1em;
-  color: #dfdfdf;
-  flex-grow: 1;
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  line-height: 1.4;
-}
+  .project-description {
+    font-size: 1em;
+    color: #dfdfdf;
+    flex-grow: 1;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    line-height: 1.5;
+  }
 
 .project-content {
   padding: 10px 0;
@@ -522,100 +523,121 @@ button:focus-visible {
 
 /* Media Queries */
 @media (max-width: 768px) {
-  .navbar {
-    padding: 1rem 1rem;
-    width: 100%;
-    max-width: 100%;
-  }
-  
-  .navbar-logo {
-    font-size: 1rem;
-  }
-
-  .project-grid {
-    grid-template-columns: 1fr;
-    padding-top: 15px;
-  }
-
-  .project-page .project-grid {
-    grid-template-columns: 1fr;
-    padding: 15px 10px;
-    width: 100%;
-  }
-
-  .projects-container {
-    padding-top: 15px;
-    min-height: auto;
-    width: 100%;
-    max-width: 100%;
-  }
-
-  .projects-wrapper {
-    width: 300%;
-  }
-
   body {
     padding-top: 60px;
     overflow-x: hidden;
+    font-size: 16px;
   }
 
   .main-container {
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+
+  .navbar {
+    padding: 0.8rem 1rem;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .navbar-logo {
+    font-size: 1.1rem;
   }
 
   .section {
-    max-width: 80%;
-    width: 80%;
-    padding: 15px;
+    max-width: 100%;
+    width: 100%;
+    padding: 15px 10px;
     text-align: left;
-    margin: 3vh auto;
-    margin-bottom: 20px;
+    margin: 2vh auto;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+
+  #about,
+  #experience,
+  #projects {
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .glow-border {
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    padding: 15px;
+    box-sizing: border-box;
   }
 
   #projects {
     grid-template-columns: 1fr;
-    max-width: 80%;
-    padding: 25px 15px 15px 15px;
+    max-width: 100%;
+    padding: 20px 10px 10px 10px;
     width: 100%;
+    box-sizing: border-box;
+  }
+
+  .projects-container {
+    padding-top: 10px;
+    min-height: auto;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .project-page .project-grid {
+    grid-template-columns: 1fr;
+    padding: 10px 5px;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .project {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     border: 1px solid #535bf2;
-    border-radius: 10px;
+    border-radius: 8px;
     padding: 15px;
     background-color: #242424;
     height: auto;
-    min-height: 400px;
+    min-height: 350px;
     width: 100%;
     max-width: 100%;
+    box-sizing: border-box;
   }
 
   .project-image {
     width: 100%;
-    max-width: 280px;
-    height: 180px;
+    max-width: 100%;
+    height: 150px;
     object-fit: cover;
-    border-radius: 8px;
-    margin: 0 auto 15px auto;
+    border-radius: 6px;
+    margin: 0 auto 10px auto;
     display: block;
+  }
+
+  .project-title {
+    font-size: 1.3em;
+    margin: 8px 0;
+  }
+
+  .project-description {
+    font-size: 0.9em;
+    line-height: 1.4;
   }
 
   .tech-tag {
     font-size: 0.7em;
-    padding: 3px 10px;
+    padding: 3px 8px;
   }
 
   .project-links {
     flex-direction: column;
     gap: 8px;
+    margin-top: 10px;
   }
 
   .project-link {
@@ -627,105 +649,7 @@ button:focus-visible {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 25px 10px;
-  }
-
-  .pagination-btn {
-    display: none;
-  }
-
-  .page-indicators {
-    display: flex;
-    gap: 12px;
-    justify-content: center;
-  }
-
-  .page-indicator {
-    width: 38px;
-    height: 38px;
-    font-size: 1rem;
-  }
-
-  h4 {
-    margin-top: 20px;
-    margin-bottom: 10px;
-  }
-
-  p {
-    margin-top: 10px;
-    margin-bottom: 20px;
-  }
-
-  h1 {
-    font-size: 1.75em;
-  }
-
-  h2 {
-    font-size: 1.5em;
-  }
-
-  p {
-    font-size: 0.85em;
-  }
-
-  .logo-text {
-    font-size: 1.4rem;
-  }
-}
-
-@media (max-width: 576px) {
-  .navbar {
-    padding: 0.8rem 0.8rem;
-    width: 100%;
-    max-width: 100%;
-  }
-  
-  .navbar-logo {
-    font-size: 0.8rem;
-  }
-
-  .navbar-links {
-    gap: 0.5rem;
-  }
-
-  #about,
-  #experience,
-  #projects {
-    max-width: 80%;
-    width: 100%;
-  }
-
-  .section {
-    max-width: 80%;
-    width: 80%;
-    padding: 10px;
-  }
-
-  .glow-border {
-    width: 100%;
-    margin-bottom: 20px;
-    padding: 10px;
-  }
-
-  .project {
-    padding: 12px;
-    height: 460px;
-    min-height: 460px;
-    width: 100%;
-    max-width: 100%;
-  }
-
-  .project-image {
-    max-width: 100%;
-    height: 160px;
-    margin-bottom: 12px;
-  }
-
-  .pagination-controls {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px 8px;
+    padding: 20px 5px;
   }
 
   .pagination-btn {
@@ -739,49 +663,296 @@ button:focus-visible {
   }
 
   .page-indicator {
-    width: 32px;
-    height: 32px;
-    font-size: 0.85rem;
-    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    font-size: 0.9rem;
+  }
+
+  h1 {
+    font-size: 1.8em;
+    line-height: 1.2;
+  }
+
+  h2 {
+    font-size: 1.5em;
+    line-height: 1.3;
   }
 
   h4 {
     margin-top: 15px;
     margin-bottom: 8px;
+    font-size: 1em;
   }
 
   p {
     margin-top: 8px;
     margin-bottom: 15px;
+    font-size: 0.9em;
+    line-height: 1.5;
+  }
+
+  .logo-text {
+    font-size: 1.2rem;
+  }
+
+  .user-picture {
+    width: 150px;
+    margin-top: 4vh;
+  }
+
+  .social-icons {
+    gap: 12px;
+    margin-top: 15px;
+  }
+
+  .social-icons svg {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media (max-width: 576px) {
+  body {
+    font-size: 14px;
+  }
+
+  .main-container {
+    padding: 0 5px;
+  }
+
+  .navbar {
+    padding: 0.6rem 0.8rem;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .navbar-logo {
+    font-size: 0.9rem;
+  }
+
+  .navbar-links {
+    gap: 0.8rem;
+  }
+
+  .section {
+    max-width: 100%;
+    width: 100%;
+    padding: 10px 5px;
+    margin: 1vh auto;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+
+  #about,
+  #experience,
+  #projects {
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .glow-border {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  #projects {
+    padding: 15px 5px 5px 5px;
+  }
+
+  .project {
+    padding: 10px;
+    height: auto;
+    min-height: 300px;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .project-image {
+    max-width: 100%;
+    height: 120px;
+    margin-bottom: 8px;
+  }
+
+  .project-title {
+    font-size: 1.1em;
+    margin: 6px 0;
+  }
+
+  .project-description {
+    font-size: 0.8em;
+    line-height: 1.3;
+  }
+
+  .tech-tag {
+    font-size: 0.6em;
+    padding: 2px 6px;
+  }
+
+  .project-link {
+    font-size: 0.7em;
+    padding: 4px 8px;
+  }
+
+  .pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 3px;
+  }
+
+  .pagination-btn {
+    display: none;
+  }
+
+  .page-indicators {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+  }
+
+  .page-indicator {
+    width: 30px;
+    height: 30px;
+    font-size: 0.8rem;
+    border-radius: 50%;
   }
 
   h1 {
     font-size: 1.5em;
+    line-height: 1.1;
   }
 
   h2 {
-    font-size: 1.25em;
+    font-size: 1.3em;
+    line-height: 1.2;
+  }
+
+  h4 {
+    margin-top: 10px;
+    margin-bottom: 6px;
+    font-size: 0.9em;
   }
 
   p {
+    margin-top: 6px;
+    margin-bottom: 10px;
     font-size: 0.8em;
+    line-height: 1.4;
   }
 
   .logo-text {
-    font-size: 1.1rem;
+    font-size: 1rem;
+  }
+
+  .user-picture {
+    width: 120px;
+    margin-top: 3vh;
+  }
+
+  .social-icons {
+    gap: 10px;
+    margin-top: 12px;
+  }
+
+  .social-icons svg {
+    width: 18px;
+    height: 18px;
   }
 }
 
 @media (max-width: 480px) {
+  body {
+    font-size: 13px;
+  }
+
+  .main-container {
+    padding: 0 3px;
+  }
+
+  .navbar {
+    padding: 0.5rem 0.6rem;
+  }
+
+  .navbar-logo {
+    font-size: 0.8rem;
+  }
+
+  .section {
+    padding: 8px 3px;
+    margin: 0.5vh auto;
+    margin-bottom: 8px;
+  }
+
+  .project {
+    padding: 8px;
+    min-height: 280px;
+  }
+
+  .project-image {
+    height: 100px;
+  }
+
+  .project-title {
+    font-size: 1em;
+  }
+
+  .project-description {
+    font-size: 0.75em;
+  }
+
+  .tech-tag {
+    font-size: 0.55em;
+    padding: 1px 4px;
+  }
+
+  .project-link {
+    font-size: 0.65em;
+    padding: 3px 6px;
+  }
+
   .pagination-controls {
-    gap: 10px;
-    padding: 12px 5px;
+    gap: 5px;
+    padding: 10px 2px;
   }
 
   .page-indicator {
-    width: 28px;
-    height: 28px;
-    font-size: 0.8rem;
+    width: 25px;
+    height: 25px;
+    font-size: 0.7rem;
+  }
+
+  h1 {
+    font-size: 1.3em;
+  }
+
+  h2 {
+    font-size: 1.1em;
+  }
+
+  h4 {
+    font-size: 0.8em;
+  }
+
+  p {
+    font-size: 0.75em;
+  }
+
+  .logo-text {
+    font-size: 0.9rem;
+  }
+
+  .user-picture {
+    width: 100px;
+  }
+
+  .social-icons svg {
+    width: 16px;
+    height: 16px;
   }
 }
 
@@ -790,7 +961,7 @@ button:focus-visible {
   #about,
   #experience,
   #projects {
-    max-width: 70%;
+    max-width: 90%;
   }
 
   .glow-border {
@@ -811,6 +982,43 @@ button:focus-visible {
 
   .navbar-button {
     font-size: 1.0rem;
+  }
+}
+
+/* iPhone and mobile device specific fixes */
+@media screen and (max-width: 480px) and (max-height: 800px) {
+  body {
+    font-size: 12px;
+  }
+  
+  .user-picture {
+    width: 80px;
+    margin-top: 2vh;
+  }
+  
+  h1 {
+    font-size: 1.2em;
+  }
+  
+  h2 {
+    font-size: 1em;
+  }
+  
+  .section {
+    margin: 1vh auto;
+  }
+}
+
+/* Ensure proper scaling on all mobile devices */
+@media screen and (max-device-width: 480px) {
+  html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  
+  body {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
   }
 }
 
