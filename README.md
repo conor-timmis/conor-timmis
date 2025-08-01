@@ -2,12 +2,8 @@
 <h3 align="center">Full-Stack Web Developer • Web3 Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/conor-timmis/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:conor.timmis@icloud.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-conor.timmis@icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/conor-timmis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:conor.timmis@icloud.com"><img src="https://img.shields.io/badge/Email-conor.timmis@icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
