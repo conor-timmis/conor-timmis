@@ -59,9 +59,6 @@ Open to collaborating on full-stack applications, and innovative developer tools
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conor-timmis&layout=compact&theme=radical" alt="stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=conor-timmis&theme=radical" alt="GitHub Streak" />
-</p>
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=conor-timmis&style=flat-square">
