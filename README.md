@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Conor Timmis</h1>
+<h1 align="center">👋 Hey, I'm Conor Timmis</h1>
 <h3 align="center">Full-Stack Web Developer • Web3 Builder</h3>
 
 <p align="center">
