@@ -19,6 +19,7 @@ I'm a UK-based developer building modern web applications primarily with **React
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -30,6 +31,8 @@ I'm a UK-based developer building modern web applications primarily with **React
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS%20Development-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/-Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=for-the-badge&logo=solidity&logoColor=white)
@@ -42,6 +45,7 @@ I'm a UK-based developer building modern web applications primarily with **React
 ![Antlers](https://img.shields.io/badge/-Antlers-FF269E?style=for-the-badge&logo=statamic&logoColor=white)
 
 </div>
+
 
 ---
 
