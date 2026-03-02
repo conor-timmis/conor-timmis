@@ -14,7 +14,7 @@ I'm a UK-based developer building modern web applications primarily with **React
 
 ---
 
-## ⚒️ Tech Stack
+⚒️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react)
