@@ -59,7 +59,7 @@ I'm a UK-based developer building modern web applications primarily with **React
 
 📫 &nbsp;**Let's Connect**
 
-Open to collaborating on full-stack applications, and innovative developer tools. Always happy to discuss coding, crypto, and new technologies!
+Open to collaborating on full-stack applications, and innovative developer tools. Always happy to discuss coding, Web3, and new technologies!
 
 ---
 
