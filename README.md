@@ -16,8 +16,6 @@ I'm a UK-based developer building modern web applications primarily with **React
 
 ⚒️ &nbsp;**Tech Stack**
 
-⚒️ &nbsp;**Tech Stack**
-
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
