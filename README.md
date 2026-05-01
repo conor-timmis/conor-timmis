@@ -10,7 +10,7 @@
 
 🧠 &nbsp;**About Me**
 
-I'm a UK-based developer building modern web applications primarily with **React** and **TypeScript** in my free time. Working at [Alt Design](https://alt-design.net/), feel free to reach out.
+I'm a UK-based developer building modern web applications primarily with **React** and **TypeScript** in my free time. Working at [Alt Design](https://alt-design.net/), feel free to reach out!
 
 ---
 
