@@ -8,13 +8,13 @@
 
 ---
 
-🧠 &nbsp;**About Me**
+&nbsp;**About Me**
 
 I'm a UK-based developer building modern web applications primarily with **React** and **TypeScript** in my free time. Feel free to reach out!
 
 ---
 
-⚒️ &nbsp;**Tech Stack**
+&nbsp;**Tech Stack**
 
 <div align="center">
 
@@ -56,15 +56,15 @@ I'm a UK-based developer building modern web applications primarily with **React
 
 ---
 
-🚀 &nbsp;**Currently Exploring**
+&nbsp;**Currently Exploring**
 
-- 🧠 **Context Engineering** — LLM-driven workflows, AI developer tools
-- 🔗 **Web3 Development** — Viem, Wagmi & Automation within Web3
-- ⚡ **High‑Performance Backends** — TypeScript/Node, Express APIs, MySQL, & viem-powered on‑chain integrations for fast, reliable trading automation
+- **Context Engineering** — LLM-driven workflows, AI developer tools
+- **Web3 Development** — Viem, Wagmi & Automation within Web3
+- **High‑Performance Backends** — TypeScript/Node, Express APIs, MySQL, & viem-powered on‑chain integrations for fast, reliable trading automation
 
 ---
 
-📫 &nbsp;**Let's Connect**
+&nbsp;**Let's Connect**
 
 Open to collaborating on full-stack applications, and innovative developer tools. Always happy to discuss coding, Web3, and new technologies!
 
