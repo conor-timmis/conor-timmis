@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Conor Timmis</h1>
-<h3 align="center">Full-Stack Web Developer • Web3 Enthusiast</h3>
+<h3 align="center">Full-Stack Software Engineer • Web3 Enthusiast</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/conor-timmis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
