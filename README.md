@@ -55,8 +55,8 @@ I'm a UK-based developer building modern web applications primarily with **React
 ![Android](https://img.shields.io/badge/-Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-</div>
 ---
+</div>
 
 &nbsp;**Currently Exploring**
 
