@@ -6,10 +6,6 @@
 <a href="mailto:conor.timmis@icloud.com"><img src="https://img.shields.io/badge/Email-conor.timmis@icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-&nbsp;**About Me**
-
 I'm a UK-based developer building modern web applications primarily with **React** and **TypeScript** in my free time. Feel free to reach out!
 
 ---
@@ -62,13 +58,13 @@ I'm a UK-based developer building modern web applications primarily with **React
 
 - **Context Engineering** — LLM-driven workflows, AI developer tools
 - **Web3 Development** — Viem, Wagmi & Automation within Web3
-- **High‑Performance Backends** — TypeScript/Node, Express APIs, MySQL, & viem-powered on‑chain integrations for fast, reliable trading automation
+- **High‑Performance Backends** — TypeScript with Go, Express APIs, MySQL, & viem-powered on‑chain integrations for fast, reliable trading automation
 
 ---
 
 &nbsp;**Let's Connect**
 
-Open to collaborating on full-stack applications, and innovative developer tools. Always happy to discuss coding, Web3, and new technologies!
+Open to collaborating on full-stack applications, & innovative developer tools. Always happy to discuss coding, Web3, & new technologies!
 
 ---
 
