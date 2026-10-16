@@ -6,7 +6,7 @@
 <a href="mailto:conor.timmis@icloud.com"><img src="https://img.shields.io/badge/Email-conor.timmis@icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
 </p>
 
-I'm a UK-based developer building modern web applications primarily with **React** and **TypeScript** in my free time. Feel free to reach out!
+I'm a UK-based developer building modern web applications primarily with **React** & **TypeScript** in my free time. Feel free to reach out!
 
 ---
 
