@@ -6,17 +6,19 @@
 <a href="mailto:conor.timmis@icloud.com"><img src="https://img.shields.io/badge/Email-conor.timmis@icloud.com-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
 </p>
 
-I'm a UK-based developer building modern web applications primarily with **React** & **TypeScript** in my free time. Feel free to reach out!
+I'm a Software Engineer based in the UK. I enjoy building all kinds of Apps with **React** and **TypeScript**, exploring **Web3** technologies, and experimenting with new tech. Feel free to reach out!
 
 ---
 
-&nbsp;**Tech Stack**
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,nextjs,angular,tailwind,django,flask,go,php,laravel,express,postgres,mongodb,mysql,sqlite,prisma,docker,kubernetes,aws,lua,solidity,swift,android&perline=8" />
 </div>
 
-&nbsp;**Currently Exploring**
+---
+
+&nbsp;**Currently Exploring:**
 
 - **Context Engineering** — LLM-driven workflows, AI developer tools
 - **Web3 Development** — Viem, Wagmi & Automation within Web3
@@ -24,7 +26,7 @@ I'm a UK-based developer building modern web applications primarily with **React
 
 ---
 
-&nbsp;**Let's Connect**
+&nbsp;**Let's Connect!**
 
 Open to collaborating on full-stack applications, & innovative developer tools. Always happy to discuss coding, Web3, & new technologies!
 
