@@ -13,7 +13,7 @@ I'm a Software Engineer based in the UK. I enjoy building all kinds of Apps with
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,nextjs,angular,tailwind,django,flask,go,php,laravel,express,postgres,mongodb,mysql,sqlite,prisma,docker,kubernetes,aws,lua,solidity,swift,android&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,nextjs,rust,tailwind,django,flask,go,php,laravel,express,postgres,mongodb,mysql,sqlite,prisma,docker,kubernetes,aws,lua,solidity,swift,android&perline=8" />
 </div>
 
 ---
